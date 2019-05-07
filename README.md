@@ -3,7 +3,6 @@
 
 Predicting employee turnover at Richemont.
 
-==============================
 # Richemont Turnover Classification challenge:
 
 ## Dataset
@@ -24,7 +23,6 @@ The goal is finding a solution to anticipate employees leaving.
   a. How to train a model using your solution
   b. How to test it with new data
   c. An imagination about how to deploy the solution you developed is production
-==============================
 
 
 Project Organization
